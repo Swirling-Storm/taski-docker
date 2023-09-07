@@ -60,4 +60,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: Stormillo/taski_backend:latest 
+          tags: stormillo/taski_backend:latest 
